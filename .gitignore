@@ -1,12 +1,5 @@
-.agents/
+﻿target/
+project/
 .idea/
-.bsp/
 .metals/
-
-target/
-project/target/
-project/project/
-
-*.iml
-*.iws
-.DS_Store
+.bloop/
