@@ -3,7 +3,6 @@
 .bsp/
 .metals/
 
-vector/
 target/
 project/target/
 project/project/
